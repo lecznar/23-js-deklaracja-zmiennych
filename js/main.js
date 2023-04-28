@@ -1,7 +1,7 @@
-let FirstName = 'Lukas';
-let LastName = 'Lecznar';
+let firstName = 'Lukas';
+let lastName = 'Lecznar';
 
-console.log(FirstName, LastName);
+console.log(firstName, lastName);
 
 
 
